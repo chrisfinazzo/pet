@@ -555,7 +555,7 @@ Go to [the releases page](https://github.com/knqyf263/pet/releases), find the ve
 Install [selector command](#Installation) first.
 You can use homebrew on macOS.
 ```
-brew install knqyf263/pet/pet
+brew install pet
 ```
 
 If you receive an error (`Error: knqyf263/pet/pet 64 already installed`) during `brew upgrade`, try the following command
